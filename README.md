@@ -10,6 +10,6 @@ Este repositório contém o site da Prefeitura do Recife. O site é uma platafor
 ## Tecnologias Utilizadas
 - HTML5
 - CSS3
--
+
 ## Contato
 Para relatar problemas, fornecer feedback ou obter suporte, entre em offlinematheus@gmail.com ou aquino.dev@2022@gmail.com.
